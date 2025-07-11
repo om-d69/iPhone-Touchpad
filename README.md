@@ -43,7 +43,7 @@ Initially, we started using a **basic Python socket server** with `socket` and `
 
 So we **scrapped this method** and moved to a Flask-based solution.
 
-##  Phase 2: Flask + Socket.IO (SUCCESS ✅)
+##  Phase 2: Flask + Socket.IO (SUCCESS)
 
 Switched to **Flask-SocketIO**, allowing smoother communication with React Native and easier server management.
 
